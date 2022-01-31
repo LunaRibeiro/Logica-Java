@@ -4,9 +4,9 @@ package entities;
 public class Aviao {
 	
 	//atributos
-	public String modelo;
-	public int passageiros;
-	public int ano;
+	private String modelo;
+	private int passageiros;
+	private int ano;
 	
 	
 	//construtor
@@ -39,9 +39,4 @@ public class Aviao {
 	public void setPassageiros(int passageiros) {
 		this.passageiros = passageiros;
 	}
-	
-	
-	
-	
-	
 }
