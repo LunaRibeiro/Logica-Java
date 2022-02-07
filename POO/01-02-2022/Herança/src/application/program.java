@@ -1,5 +1,6 @@
 package application;
 
+import entities.animal;
 import entities.cachorro;
 import entities.cavalo;
 import entities.preguica;
